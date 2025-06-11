@@ -3,8 +3,8 @@ guid: b922ea457e8e4de6bfea00a8cc1eca80
 timeCreated: 1712606226
 AssetOrigin:
   serializedVersion: 1
-  productId: 267958
-  packageName: Photon Fusion
+  productId: 213885
+  packageName: Karts Multiplayer - Photon Fusion
   packageVersion: 2.0.5
   assetPath: Assets/Photon/Fusion/Runtime/Statistics/FusionStatsWorldAnchor.cs
-  uploadId: 735720
+  uploadId: 739890

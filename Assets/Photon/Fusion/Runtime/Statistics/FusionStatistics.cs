@@ -148,7 +148,7 @@ using UnityEngine.Profiling;
       _header.SetupHeader(Runner.LocalPlayer.ToString(), this);
       _config = _statsPanelObject.GetComponentInChildren<FusionStatsConfig>(true);
 
-      //_statsPanelObject.AddComponent<FusionBasicBillboard>();
+      _statsPanelObject.AddComponent<FusionBasicBillboard>();
       ApplyCustomConfig();
 
       Runner.AddVisibilityNodes(_statsPanelObject);
