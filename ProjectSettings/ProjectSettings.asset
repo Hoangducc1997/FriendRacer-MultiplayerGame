@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 49bdb372804e8a347a250898ba9d8d52
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -872,8 +872,11 @@ PlayerSettings:
     Nintendo Switch: UNITY_POST_PROCESSING_STACK_V2;FUSION_LOGLEVEL_DEBUG
     PS4: UNITY_POST_PROCESSING_STACK_V2;FUSION_LOGLEVEL_DEBUG
     PS5: UNITY_POST_PROCESSING_STACK_V2;FUSION_LOGLEVEL_DEBUG
+    QNX: UNITY_POST_PROCESSING_STACK_V2
+    ReservedCFE: UNITY_POST_PROCESSING_STACK_V2
     Stadia: UNITY_POST_PROCESSING_STACK_V2;FUSION_LOGLEVEL_DEBUG
     Standalone: UNITY_POST_PROCESSING_STACK_V2;FUSION_WEAVER;FUSION2;FUSION_LOGLEVEL_DEBUG
+    VisionOS: UNITY_POST_PROCESSING_STACK_V2
     WebGL: UNITY_POST_PROCESSING_STACK_V2;FUSION_WEAVER;FUSION2;FUSION_LOGLEVEL_DEBUG
     Windows Store Apps: UNITY_POST_PROCESSING_STACK_V2;FUSION_LOGLEVEL_DEBUG
     XboxOne: UNITY_POST_PROCESSING_STACK_V2;FUSION_LOGLEVEL_DEBUG
@@ -916,14 +919,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Multiplayer Game
+  metroPackageName: Multiplayer-Game
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Multiplayer Game
+  metroApplicationDescription: Multiplayer-Game
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
