@@ -5,7 +5,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
@@ -21,35 +21,35 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkedBehaviours.Array.data[4]
+      propertyPath: 'NetworkedBehaviours.Array.data[4]'
       value: 
       objectReference: {fileID: 6045432041397770126}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkedBehaviours.Array.data[5]
+      propertyPath: 'NetworkedBehaviours.Array.data[5]'
       value: 
       objectReference: {fileID: 1791576643485050006}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkedBehaviours.Array.data[6]
+      propertyPath: 'NetworkedBehaviours.Array.data[6]'
       value: 
       objectReference: {fileID: 1811478697720717475}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkedBehaviours.Array.data[7]
+      propertyPath: 'NetworkedBehaviours.Array.data[7]'
       value: 
       objectReference: {fileID: 7636409868349700268}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkedBehaviours.Array.data[8]
+      propertyPath: 'NetworkedBehaviours.Array.data[8]'
       value: 
       objectReference: {fileID: 7867644379589409997}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkedBehaviours.Array.data[9]
+      propertyPath: 'NetworkedBehaviours.Array.data[9]'
       value: 
       objectReference: {fileID: 7759370598482125778}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkGuid.RawGuidValue.Array.data[0]
+      propertyPath: 'NetworkGuid.RawGuidValue.Array.data[0]'
       value: -7768144099119188515
       objectReference: {fileID: 0}
     - target: {fileID: 59827823487360272, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
-      propertyPath: NetworkGuid.RawGuidValue.Array.data[1]
+      propertyPath: 'NetworkGuid.RawGuidValue.Array.data[1]'
       value: 4996964404148637993
       objectReference: {fileID: 0}
     - target: {fileID: 1496170115522455483, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
@@ -108,8 +108,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8654725950703770160, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d8dad4dba1c658459d8a1ca4d928705, type: 3}
 --- !u!114 &1791576643485050006 stripped
 MonoBehaviour:
