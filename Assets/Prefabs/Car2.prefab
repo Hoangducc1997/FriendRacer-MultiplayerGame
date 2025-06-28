@@ -373,7 +373,7 @@ MonoBehaviour:
   tireYawFR: {fileID: 416997243872047850}
   tireBL: {fileID: 5681226541929885695}
   tireBR: {fileID: 2097110450106404250}
-  maxSpeedNormal: 25
+  maxSpeedNormal: 79
   maxSpeedBoosting: 45
   reverseSpeed: 15
   acceleration: 0.5

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f82c10e0c9eea446ac2043a95b1071a, type: 3}
   m_Name: Car3
   m_EditorClassIdentifier: 
-  prefab: {fileID: 2592707394311987765, guid: 742583ba97e7024419c2b87d1f04b736, type: 3}
-  speedStat: 2
+  prefab: {fileID: 2592707394311987765, guid: 1eb3f55c060743041afb654102590bad, type: 3}
+  speedStat: 5
   accelStat: 3
   turnStat: 5

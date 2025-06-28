@@ -3,7 +3,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "New Kart Definition", menuName = "Scriptable Object/Kart Definiton")]
 public class KartDefinition : ScriptableObject
 {
-	public const int MAX_STAT = 5;
+	public const int MAX_STAT = 39;
 
 	public KartEntity prefab;
 	[SerializeField, Range(1, MAX_STAT)] private int speedStat;

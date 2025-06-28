@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Car1
   m_EditorClassIdentifier: 
   prefab: {fileID: 2592707394311987765, guid: 42e3f6724c4f14942a7e811fd3b1974d, type: 3}
-  speedStat: 2
+  speedStat: 39
   accelStat: 3
   turnStat: 5
