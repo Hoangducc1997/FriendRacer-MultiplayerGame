@@ -58,10 +58,10 @@ public class KartAnimator : KartComponent
 			AudioManager.Play("backfireSFX", AudioManager.MixerTarget.SFX, transform.position);
 		};
 
-        Kart.Controller.OnHopChanged += val => {
-            if (!val) return;
-            Kart.Animator.SetTrigger("Hop");
-        };
+        //Kart.Controller.OnHopChanged += val => {
+        //    if (!val) return;
+        //    Kart.Animator.SetTrigger("Hop");
+        //};
     }
 
 	private void OnDestroy()

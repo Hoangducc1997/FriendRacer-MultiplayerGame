@@ -293,7 +293,7 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 3
   m_Radius: 0.47015023
-  m_Center: {x: 0, y: 0.46984977, z: 0}
+  m_Center: {x: 0, y: 0.45, z: 0}
 --- !u!54 &2512715192252331057
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -373,8 +373,8 @@ MonoBehaviour:
   tireYawFR: {fileID: 416997243872047850}
   tireBL: {fileID: 5681226541929885695}
   tireBR: {fileID: 2097110450106404250}
-  maxSpeedNormal: 79
-  maxSpeedBoosting: 45
+  maxSpeedNormal: 10.5
+  maxSpeedBoosting: 10.8
   reverseSpeed: 15
   acceleration: 0.5
   deceleration: 0.75
@@ -424,11 +424,10 @@ MonoBehaviour:
   steerAcceleration: 5
   steerDeceleration: 5
   driftInputRemap: {x: 0.5, y: 1}
-  hopSteerStrength: 30
   speedToDrift: 10
   driftRotationLerpFactor: 25
   Rigidbody: {fileID: 2512715192252331057}
-  _MaxSpeed: 0
+  _MaxSpeed: 10.5
   _BoostTierIndex: 0
   _DriftTierIndex: -1
   _IsGrounded:
@@ -531,14 +530,6 @@ MonoBehaviour:
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
-    - m_Name: 
-      m_Id: f718e0f6-cc4d-4b2e-8d9c-bf71ebf36b5d
-      m_Path: <Keyboard>/space
-      m_Interactions: 
-      m_Processors: 
-      m_Groups: 
-      m_Action: Drift
-      m_Flags: 0
     - m_Name: 
       m_Id: c9188a47-95ca-4ac1-9243-7c393580e4b4
       m_Path: <Gamepad>/rightShoulder
