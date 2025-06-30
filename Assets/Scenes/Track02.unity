@@ -7032,7 +7032,7 @@ MonoBehaviour:
   definition: {fileID: 11400000, guid: 3156805d5ae531641bc7157f3bd03170, type: 2}
   sequence: {fileID: 1018824295}
   music: track02
-  introSpeed: 0.2
+  introSpeed: 0.39
 --- !u!114 &1018824295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7045,7 +7045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de8c447b3bcb90d48b3b41b5b30859b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duration: 7
+  duration: 8
   sequenceAudio: {fileID: 0}
 --- !u!114 &1018824296
 MonoBehaviour:
