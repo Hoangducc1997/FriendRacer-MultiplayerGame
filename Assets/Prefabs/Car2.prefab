@@ -376,8 +376,8 @@ MonoBehaviour:
   maxSpeedNormal: 10.5
   maxSpeedBoosting: 10.8
   reverseSpeed: 15
-  acceleration: 0.5
-  deceleration: 0.75
+  acceleration: 7
+  deceleration: 0.757
   steeringCurve:
     serializedVersion: 2
     m_Curve:
