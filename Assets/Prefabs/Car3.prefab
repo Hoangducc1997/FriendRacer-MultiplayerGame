@@ -373,7 +373,7 @@ MonoBehaviour:
   tireYawFR: {fileID: 416997243872047850}
   tireBL: {fileID: 5681226541929885695}
   tireBR: {fileID: 2097110450106404250}
-  maxSpeedNormal: 10.9
+  maxSpeedNormal: 9.2
   maxSpeedBoosting: 100
   reverseSpeed: 15
   acceleration: 9
@@ -427,7 +427,7 @@ MonoBehaviour:
   speedToDrift: 10
   driftRotationLerpFactor: 25
   Rigidbody: {fileID: 2512715192252331057}
-  _MaxSpeed: 10.9
+  _MaxSpeed: 9.2
   _BoostTierIndex: 0
   _DriftTierIndex: -1
   _IsGrounded:
@@ -1098,6 +1098,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 2159551132066762669, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e01ebd517e814134280b775514a876e4, type: 2}
+    - target: {fileID: 2472860596818827837, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e01ebd517e814134280b775514a876e4, type: 2}
     - target: {fileID: 2631735538901458790, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
@@ -1150,6 +1158,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: -90
       objectReference: {fileID: 0}
+    - target: {fileID: 5345424851399318484, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e01ebd517e814134280b775514a876e4, type: 2}
     - target: {fileID: 6298371021036285178, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.79
@@ -1290,6 +1302,10 @@ PrefabInstance:
       propertyPath: InitialModule.startColor.maxColor.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9001171605880669093, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e01ebd517e814134280b775514a876e4, type: 2}
     - target: {fileID: 9048586485642098567, guid: ed62269b646f92d4fb8628b437f41f38, type: 3}
       propertyPath: m_Emitting
       value: 0

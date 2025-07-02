@@ -373,7 +373,7 @@ MonoBehaviour:
   tireYawFR: {fileID: 416997243872047850}
   tireBL: {fileID: 5681226541929885695}
   tireBR: {fileID: 2097110450106404250}
-  maxSpeedNormal: 10.68
+  maxSpeedNormal: 9.6
   maxSpeedBoosting: 100
   reverseSpeed: 18
   acceleration: 6
@@ -427,7 +427,7 @@ MonoBehaviour:
   speedToDrift: 10
   driftRotationLerpFactor: 25
   Rigidbody: {fileID: 2512715192252331057}
-  _MaxSpeed: 10.68
+  _MaxSpeed: 9.6
   _BoostTierIndex: 0
   _DriftTierIndex: -1
   _IsGrounded:
