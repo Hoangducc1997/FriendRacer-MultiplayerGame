@@ -30042,11 +30042,11 @@ PrefabInstance:
     - target: {fileID: 8922999186898811854, guid: 12684cbe625c43c42a2df5e62a98c63b, type: 3}
       propertyPath: musicBank.kvps.Array.data[0].Value
       value: 
-      objectReference: {fileID: 8300000, guid: c3a9e9d1bec651640b261d81a249f670, type: 3}
+      objectReference: {fileID: 8300000, guid: 9c9128ce4fb6aeb49882758599c993fd, type: 3}
     - target: {fileID: 8922999186898811854, guid: 12684cbe625c43c42a2df5e62a98c63b, type: 3}
       propertyPath: musicBank.kvps.Array.data[1].Value
       value: 
-      objectReference: {fileID: 8300000, guid: c3a9e9d1bec651640b261d81a249f670, type: 3}
+      objectReference: {fileID: 8300000, guid: 9c9128ce4fb6aeb49882758599c993fd, type: 3}
     - target: {fileID: 8922999186898811854, guid: 12684cbe625c43c42a2df5e62a98c63b, type: 3}
       propertyPath: musicBank.kvps.Array.data[2].Value
       value: 
@@ -30054,7 +30054,7 @@ PrefabInstance:
     - target: {fileID: 8922999186898811854, guid: 12684cbe625c43c42a2df5e62a98c63b, type: 3}
       propertyPath: musicBank.kvps.Array.data[3].Value
       value: 
-      objectReference: {fileID: 8300000, guid: c3a9e9d1bec651640b261d81a249f670, type: 3}
+      objectReference: {fileID: 8300000, guid: 7825a12aebd359442b5c8bef53f06ce7, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
