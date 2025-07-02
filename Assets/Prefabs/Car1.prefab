@@ -374,7 +374,7 @@ MonoBehaviour:
   tireBL: {fileID: 5681226541929885695}
   tireBR: {fileID: 2097110450106404250}
   maxSpeedNormal: 10.68
-  maxSpeedBoosting: 45
+  maxSpeedBoosting: 100
   reverseSpeed: 18
   acceleration: 6
   deceleration: 6
